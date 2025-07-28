@@ -47,21 +47,21 @@ export default function DragopumpWebsite() {
               href="#features"
               className="relative text-lg font-semibold text-gray-300 hover:text-[#00FF00] transition-all duration-300 group"
             >
-              Features
+              FEATURES
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-[#00FF00] group-hover:w-full transition-all duration-300"></span>
             </Link>
             <Link
               href="#tokenomics"
               className="relative text-lg font-semibold text-gray-300 hover:text-[#00FF00] transition-all duration-300 group"
             >
-              Token
+              ABOUT
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-[#00FF00] group-hover:w-full transition-all duration-300"></span>
             </Link>
             <Link
               href="#social"
               className="relative text-lg font-semibold text-gray-300 hover:text-[#00FF00] transition-all duration-300 group"
             >
-              Community
+              COMMUNITY
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-[#00FF00] group-hover:w-full transition-all duration-300"></span>
             </Link>
           </div>
