@@ -135,7 +135,7 @@ export default function DragopumpWebsite() {
           <div className="text-center mb-16">
             <h2 className="text-5xl font-bold mb-6">
               <span className="bg-gradient-to-r from-[#00FF00] to-[#1AFFA3] bg-clip-text text-transparent glow-text">
-                Dragon Powers
+                DRAGON POWERS
               </span>
             </h2>
             <p className="text-xl text-gray-400 max-w-3xl mx-auto">
@@ -189,7 +189,7 @@ export default function DragopumpWebsite() {
           <div className="text-center mb-16">
             <h2 className="text-5xl font-bold mb-6">
               <span className="bg-gradient-to-r from-[#00FF00] to-[#1AFFA3] bg-clip-text text-transparent glow-text">
-                About DragoPump
+                ABOUT DRAGOPUMP
               </span>
             </h2>
             <p className="text-xl text-gray-400">The ancient power awakens with unstoppable force</p>
@@ -222,7 +222,7 @@ export default function DragopumpWebsite() {
               {[
                 {
                   label: "Token Name",
-                  value: "Dragopump",
+                  value: "DRAGOPUMP",
                   icon: <i className="fa-solid fa-fire text-xl"></i>,
                   description: "The legendary token of power",
                 },
@@ -240,7 +240,7 @@ export default function DragopumpWebsite() {
                 },
                 {
                   label: "Blockchain",
-                  value: "Solana",
+                  value: "SOLANA",
                   icon: <i className="fa-solid fa-bolt text-xl"></i>,
                   description: "Lightning-fast dragon speed",
                 },
@@ -270,7 +270,7 @@ export default function DragopumpWebsite() {
                   <div className="text-center mb-6">
                     <h3 className="text-2xl font-bold text-[#00FF00] mb-2 glow-text flex items-center justify-center">
                       <i className="fa-solid fa-shield mr-3 text-xl glow-effect"></i>
-                      Dragon's Seal
+                      DRAGON'S SEAL
                     </h3>
                     <p className="text-gray-400">The sacred contract address</p>
                   </div>
@@ -297,7 +297,7 @@ export default function DragopumpWebsite() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-5xl font-bold mb-6">
             <span className="bg-gradient-to-r from-[#00FF00] to-[#1AFFA3] bg-clip-text text-transparent glow-text">
-              Join the Dragon Army
+              JOIN THE DRAGON ARMY
             </span>
           </h2>
           <p className="text-xl text-gray-400 mb-12">
@@ -331,7 +331,7 @@ export default function DragopumpWebsite() {
           </div>
 
           <div className="mt-16 p-8 bg-gradient-to-r from-[#00FF00]/10 to-[#1AFFA3]/10 rounded-2xl border border-[#00FF00]/30">
-            <h3 className="text-2xl font-bold text-[#00FF00] mb-4">Ready to Ride the Dragon?</h3>
+            <h3 className="text-2xl font-bold text-[#00FF00] mb-4">READY TO RIDE THE DRAGON?</h3>
             <p className="text-gray-300 mb-6">
               The ancient prophecy is unfolding. The dragon has awakened, and the greatest pump in crypto history is
               about to begin.
