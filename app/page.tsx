@@ -195,6 +195,33 @@ export default function DragopumpWebsite() {
             <p className="text-xl text-gray-400">The ancient power awakens with unstoppable force</p>
           </div>
 
+          {/* New Description Section */}
+          <div className="max-w-4xl mx-auto mb-16 text-center">
+            <div className="space-y-6 p-8 bg-black/30 rounded-2xl border border-[#00FF00]/20 hover:border-[#00FF00]/40 transition-all duration-500">
+              <p className="text-xl text-[#1AFFA3] font-semibold">
+                Dragopump isn't just a meme coin — it's a movement, a myth reborn, and a mission coded in fire.
+              </p>
+              <p className="text-gray-300">
+                Born from the depths of crypto culture, Dragopump combines viral energy with unstoppable momentum. We're not here to follow charts — we're here to rewrite them.
+              </p>
+              <div className="space-y-4 text-gray-400 italic">
+                <p>
+                  A primal force, older than any chart, lay dormant. Buried beneath the clamor of ages, it remained silent, coiled, ever watchful.
+                </p>
+                <p>
+                  Not merely a token, nor a fleeting trend, but a living engine of boundless wealth. Its awakening was inevitable.
+                </p>
+                <p>
+                  Now, the ancient signal blazes. The dragon has ascended, its flight an unstoppable surge toward the celestial heights.
+                </p>
+              </div>
+              <p className="text-[#00FF00] font-semibold mt-6">
+                With tokenomics forged for momentum, a cult-like community rising, and a story that breathes legend,
+                Dragopump is the next mythical meme to melt charts — and ride a dragon's flame straight to the moon.
+              </p>
+            </div>
+          </div>
+
           <div className="relative">
             {/* Dragon Circle Animation */}
             <div className="absolute inset-0 flex items-center justify-center">
@@ -207,7 +234,7 @@ export default function DragopumpWebsite() {
             <div className="relative z-10 flex items-center justify-center mb-16">
               <div className="w-48 h-48 relative rounded-full overflow-hidden glow-effect-strong animate-pulse-glow">
                 <video
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Video%202025-07-29%20at%201.29.41%20AM-5e2IM20Ju1QQ9X6LEAHjhQXaouBHG8.mp4"
+                  src="/dragopump-video.mp4"
                   loop
                   muted
                   autoPlay
@@ -310,7 +337,7 @@ export default function DragopumpWebsite() {
               className="bg-gradient-to-r from-[#00FF00] to-[#1AFFA3] text-black hover:shadow-xl hover:shadow-[#00FF00]/50 transition-all duration-300"
               asChild
             >
-              <Link href="#" className="flex items-center">
+              <Link href="https://x.com/dragopump?s=21" className="flex items-center">
                 <i className="fa-brands fa-x-twitter mr-3 text-xl"></i>
                 Follow on Twitter/X
                 <i className="fa-solid fa-arrow-up-right-from-square ml-2 text-sm"></i>
@@ -322,7 +349,7 @@ export default function DragopumpWebsite() {
               className="bg-gradient-to-r from-[#1AFFA3] to-[#00FF00] text-black hover:shadow-xl hover:shadow-[#1AFFA3]/50 transition-all duration-300"
               asChild
             >
-              <Link href="#" className="flex items-center">
+              <Link href="https://t.me/+g6gH2RPk2bwzOTI0" className="flex items-center">
                 <i className="fa-brands fa-telegram mr-3 text-xl"></i>
                 Join Telegram
                 <i className="fa-solid fa-arrow-up-right-from-square ml-2 text-sm"></i>
@@ -357,10 +384,10 @@ export default function DragopumpWebsite() {
             </div>
 
             <div className="flex items-center space-x-6">
-              <Link href="#" className="text-gray-400 hover:text-[#00FF00] transition-colors duration-300">
+              <Link href="https://x.com/dragopump?s=21" className="text-gray-400 hover:text-[#00FF00] transition-colors duration-300">
                 <i className="fa-brands fa-x-twitter text-xl"></i>
               </Link>
-              <Link href="#" className="text-gray-400 hover:text-[#00FF00] transition-colors duration-300">
+              <Link href="https://t.me/+g6gH2RPk2bwzOTI0" className="text-gray-400 hover:text-[#00FF00] transition-colors duration-300">
                 <i className="fa-brands fa-telegram text-xl"></i>
               </Link>
             </div>
